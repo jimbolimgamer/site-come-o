@@ -1,0 +1,22 @@
+:root{
+    --cinza-escuro: #58534c;
+    --cor-pele: #f1d3ab;
+    --verde-musgo: #dbce79;
+    --vermelho: #f95842;
+    --azul-legal: #0eaeab;
+
+}
+
+.cabeca{
+    text-align: center;
+    font-size: 20px;
+}
+
+.imagem-banner{
+    border-radius: 20px;
+    justify-content: center;
+}
+
+.body{
+    background-color: var(--cor-pele);
+}
